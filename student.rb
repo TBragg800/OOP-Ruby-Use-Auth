@@ -19,7 +19,7 @@ class Student
  
 end
  
-thomas = Student.new("Thomas", "Hossain", "thomas1", "thomas@example.com",
+thomas = Student.new("Thomas", "B", "thomas1", "thomas@example.com",
                       "password1")
 john = Student.new("John", "Doe", "john1", "john1@example.com",
                       "password2")

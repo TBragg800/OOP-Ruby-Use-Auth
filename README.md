@@ -16,8 +16,7 @@
   [Questions](#Questions)
   
 ## Description
-  This is an application created by following the Udemy Ruby on Rails instructional series by Rob Percival and Mashrur Hossain. The purpose of this exercise is 
-  .
+  This is an application created by following the Udemy Ruby on Rails instructional series by Rob Percival and Mashrur Hossain. The purpose of this exercise is to create a module that can then interact with a class of student.
 
 ## Installation
   Simply clone the repo locally.
